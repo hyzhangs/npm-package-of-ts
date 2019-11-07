@@ -1,0 +1,21 @@
+{
+  "name": "npm-template-of-ts",
+  "version": "1.0.6",
+  "description": "typeScript npm template",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {},
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "hyzhang <zhanghongyi@flexem.cn>",
+  "license": "MIT",
+  "keywords": [
+    "typeScript npm template npm-template-of-ts"
+  ],
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "typescript": "^3.7.2"
+  }
+}
