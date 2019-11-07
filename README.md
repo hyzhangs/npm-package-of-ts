@@ -13,7 +13,7 @@
 
 取消发布 npm unpublish name  
 
-开发的代码放在src文件夹
+开发的代码放在src文件夹  
 
 
 
