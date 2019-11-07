@@ -9,6 +9,10 @@
     "build": "tsc",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "directory": "https://github.com/hyzhangs/npm-package-of-ts.git"
+  },
   "author": "hyzhang <zhanghongyi@flexem.cn>",
   "license": "MIT",
   "keywords": [
