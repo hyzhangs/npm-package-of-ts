@@ -11,7 +11,9 @@
 
 发布 npm publish  
 
-取消发布 npm unpublish name
+取消发布 npm unpublish name  
+
+开发的代码放在src文件夹
 
 
 
